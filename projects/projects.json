@@ -2,7 +2,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!.",
-    "image": "../assets/images/projects/Screenshot 2024-04-04 004558.png",
+    "image": "https://drive.google.com/file/d/1HnN63HpAoZtMlR9Wglv29zdTE71YtGVe/view?usp=sharing",
     "category": "Web",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -12,8 +12,8 @@
   {
     "name": "Blogging Website",
     "desc": "Blogging website created using Node.js, Express, EJS, and a PostgreSQL database. The website allows users to write and publish blog posts, view existing posts.",
-    "image": "../assets/images/projects/Screenshot 2024-04-04 004851.png",
-    "category": "android",
+    "image": "https://drive.google.com/file/d/11hLkFcaYy-90bfv5ABZ6wQiqPrwcTA0F/view?usp=sharing",
+    "category": "Web",
     "links": {
       "view": "https://blogify.2.sg-1.fl0.io/",
       "code": "https://github.com/Unbeatable15/Blogify"
@@ -22,10 +22,10 @@
   {
     "name": "Face Liveness Detection",
     "desc": "Differentiate between real people and fake photos, videos, or masks",
-    "image": "newsboxandroid",
-    "category": "android",
+    "image": "https://drive.google.com/file/d/1qB27X0rjJj13H_lsEhwOtBGfvlc-XfZi/view?usp=sharing",
+    "category": "Web",
     "links": {
-      "view": "../assets/images/projects/liveness_detection_opencv_compare.jpg",
+      "view": "",
       "code": "https://github.com/Unbeatable15/Face-Liveliness-Detection"
     }
   }
