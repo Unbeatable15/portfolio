@@ -2,7 +2,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!.",
-    "image": "Portfolio",
+    "image": "https://res.cloudinary.com/dg4qomqax/image/upload/v1712175799/plzjuxx4k7xbdpigizti.png",
     "category": "Web",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -12,7 +12,7 @@
   {
     "name": "Blogging Website",
     "desc": "Blogging website created using Node.js, Express, EJS, and a PostgreSQL database. The website allows users to write and publish blog posts, view existing posts.",
-    "image": "Blogify",
+    "image": "https://res.cloudinary.com/dg4qomqax/image/upload/v1712175799/fhhfrgcke8n1jfftpfcf.png",
     "category": "Web",
     "links": {
       "view": "https://blogify.2.sg-1.fl0.io/",
@@ -22,7 +22,7 @@
   {
     "name": "Face Liveness Detection",
     "desc": "Differentiate between real people and fake photos, videos, or masks",
-    "image": "liveness_detection_opencv_compare",
+    "image": "https://res.cloudinary.com/dg4qomqax/image/upload/v1712175798/hbzrbctost9uv9s3dwku.jpg",
     "category": "Web",
     "links": {
       "view": "",
