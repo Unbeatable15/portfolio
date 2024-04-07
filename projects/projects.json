@@ -5,8 +5,8 @@
     "image": "https://res.cloudinary.com/dg4qomqax/image/upload/v1712175799/plzjuxx4k7xbdpigizti.png",
     "category": "Web",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/Ajinkya-Kshatriya/Portfolio-Website"
+      "view": "https://unbeatable15.github.io/portfolio/index.html",
+      "code": "https://github.com/Unbeatable15/portfolio"
     }
   },
   {
@@ -22,10 +22,10 @@
   {
     "name": "Face Liveness Detection",
     "desc": "Differentiate between real people and fake photos, videos, or masks",
-    "image": "https://res.cloudinary.com/dg4qomqax/image/upload/v1712175798/hbzrbctost9uv9s3dwku.jpg",
+    "image": "https://res.cloudinary.com/dp08nc0n5/image/upload/v1712466326/r6hrgskzvfdsg7ycrxd3.png",
     "category": "Web",
     "links": {
-      "view": "",
+      "view": "https://github.com/Unbeatable15/Face-Liveliness-Detection",
       "code": "https://github.com/Unbeatable15/Face-Liveliness-Detection"
     }
   }
