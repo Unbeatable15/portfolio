@@ -2,7 +2,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!.",
-    "image": "https://drive.google.com/file/d/1HnN63HpAoZtMlR9Wglv29zdTE71YtGVe/view?usp=sharing",
+    "image": "https://res.cloudinary.com/dp08nc0n5/image/upload/v1716271066/qctze3tcwhdnmkruk2nk.png",
     "category": "Web",
     "links": {
       "view": "https://unbeatable15.github.io/portfolio/index.html",
@@ -12,7 +12,7 @@
   {
     "name": "Blogging Website",
     "desc": "Blogging website created using Node.js, Express, EJS, and a PostgreSQL database. The website allows users to write and publish blog posts, view existing posts.",
-    "image": "https://res.cloudinary.com/dg4qomqax/image/upload/v1712175799/fhhfrgcke8n1jfftpfcf.png",
+    "image": "https://res.cloudinary.com/dp08nc0n5/image/upload/v1716271089/fapxzatft7eweiv9gvu3.png",
     "category": "Web",
     "links": {
       "view": "https://blogify.2.sg-1.fl0.io/",
